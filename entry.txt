@@ -1,0 +1,1 @@
+Tip: if the loading screen takes longer than your coffee break, the app is not loading. It is thinking about its choices.
